@@ -32,7 +32,7 @@ cd Projeto-Red
 3. Execute o código usando o compilador Red:
 
 ```bash 
-red main.red
+red project_red.red
 
 ```
 
